@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tienda
+    username: postgres
+    password: Robert19990801
+    driver-class-name: org.postgresql.Driver
+  application:
+    name: productos
